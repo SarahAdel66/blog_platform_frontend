@@ -24,10 +24,10 @@ cd frontend
 npm install  
 npm start  
 
-### **you can visit backend which deployed on veercel from here :
+### **you can visit backend which deployed on veercel from here :**
 postsblogbackend-production.up.railway.app
 
-### **test API
+### **test API**
 to get all posts : postsblogbackend-production.up.railway.app/api/posts
 to get all users : postsblogbackend-production.up.railway.app/api/users
 
