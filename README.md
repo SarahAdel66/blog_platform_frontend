@@ -24,11 +24,13 @@ cd frontend
 npm install  
 npm start  
 
-### **you can visit backend which deployed on vercel from here :**
+### **you can visit backend which deployed on Railway from here :**
 https://postsblogbackend-production.up.railway.app
 
 ### **test API**
 - to get all posts : https://postsblogbackend-production.up.railway.app/api/posts
 - to get all users : https://postsblogbackend-production.up.railway.app/api/users
 
+### **you can visit frontend which deployed on Vercel from here :**
+https://posts-blog-frontend-ifnv.vercel.app
 
