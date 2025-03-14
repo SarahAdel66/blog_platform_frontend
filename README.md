@@ -25,10 +25,10 @@ npm install
 npm start  
 
 ### **you can visit backend which deployed on vercel from here :**
-postsblogbackend-production.up.railway.app
+https://postsblogbackend-production.up.railway.app
 
 ### **test API**
-- to get all posts : postsblogbackend-production.up.railway.app/api/posts
-- to get all users : postsblogbackend-production.up.railway.app/api/users
+- to get all posts : https://postsblogbackend-production.up.railway.app/api/posts
+- to get all users : https://postsblogbackend-production.up.railway.app/api/users
 
 
